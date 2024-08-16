@@ -1,0 +1,14 @@
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\bin\Debug\net8.0\DataStructures.exe
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\bin\Debug\net8.0\DataStructures.deps.json
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\bin\Debug\net8.0\DataStructures.runtimeconfig.json
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\bin\Debug\net8.0\DataStructures.dll
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\bin\Debug\net8.0\DataStructures.pdb
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\obj\Debug\net8.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfoInputs.cache
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\obj\Debug\net8.0\DataStructures.AssemblyInfo.cs
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\obj\Debug\net8.0\DataStructures.csproj.CoreCompileInputs.cache
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\obj\Debug\net8.0\DataStructures.dll
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\obj\Debug\net8.0\refint\DataStructures.dll
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\obj\Debug\net8.0\DataStructures.pdb
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\obj\Debug\net8.0\DataStructures.genruntimeconfig.cache
+c:\Users\esteb\OneDrive\Documents\D temp\D\TEC\2024\Semestre 2\AyEdDI2\DataStructures\obj\Debug\net8.0\ref\DataStructures.dll
